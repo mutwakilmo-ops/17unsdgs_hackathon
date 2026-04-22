@@ -1,6 +1,5 @@
-# 🌍 xAI SDG Impact Lab
+# 🌍 !7 Unsdgs  SDG Impact Lab
 
-This section demonstrates how my technical skills and xAI preparation can be **applied to achieve the 17 UN Sustainable Development Goals (SDGs)**. Each SDG includes a **concrete project idea** and the **tech stack** I would use, combining backend engineering, distributed systems, AI orchestration, and multimodal pipelines.
 
 ---
 
