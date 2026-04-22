@@ -117,17 +117,6 @@ Instead of 17 separate startups, SDG Impact Lab builds **horizontal AI infrastru
 
 ## 🛠️ Tech Stack Overview
 
-```mermaid
-graph LR
-    A[Satellites / IoT / Sensors] --> B[Rust Ingestion]
-    B --> C[Python + JAX ML]
-    C --> D[Go Control Plane]
-    D --> E[React Dashboard]
-    F[LLM + RAG] --> G[Insights + Reports]
-    H[Prometheus] --> I[Observability]
-
-
----
 
 ## Instructions to Create This Repo
 
